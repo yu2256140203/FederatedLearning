@@ -1,3 +1,3 @@
-# FederatedLearning_Book
+# FederatedLearning
 
-## NEU硕内部书籍，禁止外传
+## NEU硕内部资料分享，禁止外传
